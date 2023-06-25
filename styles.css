@@ -73,7 +73,6 @@ body {
 
 .services p {
     font-size: 16px;
-    text-align: justify;
 }
 
 
@@ -85,14 +84,14 @@ body {
     text-align: center;
 }
 
-.banner,
+.banner
 .box {
     background: #d6d8db;
     padding: 20px;
     margin: 10px;
 }
 
-.banner,
+.banner
 .box h3 {
     margin: 10px 0;
 }
